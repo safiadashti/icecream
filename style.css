@@ -7,8 +7,8 @@
     color: black;
 }
 .cone{
-    width: 200px;
-    height: 300px;
+    width: 700px;
+    height: 500px;
 }
 .pin{
     transition: all 3s;
@@ -179,7 +179,7 @@
 }
 .ras:hover{
     cursor: pointer;
-    transform: scale(1.1);
+    transform: scale(1.0);
     color: white;
     background-color: red;
 }
@@ -192,4 +192,5 @@
 }
 .logo{
     background-color: black;
+
 }
